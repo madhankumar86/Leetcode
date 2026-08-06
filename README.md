@@ -1,1 +1,1 @@
-# Leedcode
+# Leetcode
